@@ -1,0 +1,117 @@
+/* Custom CSS for styling the Travel Website */
+
+/* Apply a background color to the body */
+body {
+    background-color: #f0f0f0;
+  }
+  
+  /* Style the navigation bar */
+
+  /* Custom CSS for styling the Travel Website */
+
+/* Navbar styles */
+.navbar {
+    background-color: #007bff; /* Navbar background color */
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    color: #a47c7c; /* Navbar brand text color */
+  }
+  
+  .navbar-toggler-icon {
+    color: #f10707; /* Navbar toggler icon color */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff; /* Navbar link text color */
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #fff; /* Navbar link text color on hover */
+  }
+  
+  /* Adjust the spacing of the navbar */
+  .navbar {
+    padding: 10px 0;
+  }
+  
+  
+  /* Style the jumbotron */
+  .jumbotron {
+    background-image: url("cv2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 100px 0;
+    text-align: center;
+    margin-bottom: 20px;
+  font-family: fantasy;
+  color: crimson;
+  }
+  .text-center{
+  
+    margin-top: 10px;
+    
+  }
+  
+  .jumbotron h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .jumbotron p {
+    font-size: 1.25rem;
+    margin-bottom: 30px;
+  }
+  
+  /* Style the content containers */
+  .container {
+    padding: 50px 0;
+  }
+  
+  /* Style the columns */
+  .col-md-4 {
+    margin-bottom: 30px;
+  }
+  
+  /* Style the buttons */
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+  }
+  
+  .btn-primary:hover,
+  .btn-secondary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .jumbotron {
+      padding: 50px 0;
+    }
+  }
+  /* Custom CSS for styling the Travel Website */
+
+/* ... (previous styles) ... */
+
+/* Style the footer */
+.footer {
+    background-color: #f8f9fa;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  
+ 
+
+  
